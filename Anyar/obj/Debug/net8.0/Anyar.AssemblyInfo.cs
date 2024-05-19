@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anyar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6e6893e84d06f7d0ee65e0efc6a015b9531aa7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anyar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anyar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
