@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\shared\\companents\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\shared\\companents\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\shared\\companents\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\shared\\companents\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\viewcompanents\\headerviewcompanent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:viewcompanents\\headerviewcompanent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|c:\\users\\qarib\\desktop\\c#\\anyar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1303DE89-295A-46C3-9BA6-28110F993462}|Anyar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\Companents\\Footer\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Companents\\Footer\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\Companents\\Footer\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Companents\\Footer\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:30:08.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\Companents\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Companents\\Header\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\Companents\\Header\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Companents\\Header\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:29:14.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeaderViewCompanent.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\ViewCompanents\\HeaderViewCompanent.cs",
+              "RelativeDocumentMoniker": "ViewCompanents\\HeaderViewCompanent.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\ViewCompanents\\HeaderViewCompanent.cs",
+              "RelativeToolTip": "ViewCompanents\\HeaderViewCompanent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:25:23.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:11:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:10:56.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAMIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:10:42.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwHUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:10:04.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:09:23.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Qarib\\Desktop\\c#\\Anyar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:55:59.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
